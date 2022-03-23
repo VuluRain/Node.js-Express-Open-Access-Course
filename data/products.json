@@ -1,34 +1,32 @@
-{
-    "products": [
-      {
-        "ID": 0,
-        "productTitle": "Dish_Washer_A",
-        "productDescription": "DW_Grade=A",
-        "productPrice": 100
-      },
-      {
-        "ID": 1,
-        "productTitle": "Dish_Washer_B",
-        "productDescription": "DW_Grade=B",
-        "productPrice": 80
-      },
-      {
-        "ID": 2,
-        "productTitle": "Dish_Washer_C",
-        "productDescription": "DW_Grade=C",
-        "productPrice": 60
-      },
-      {
-        "ID": 3,
-        "productTitle": "Dish_Washer_D",
-        "productDescription": "DW_Grade=D",
-        "productPrice": 45
-      },
-      {
-        "ID": 4,
-        "productTitle": "Dish_Washer_E",
-        "productDescription": "DW_Grade=E",
-        "productPrice": 30
-      }
-    ]
+[
+  {
+    "ID": 0,
+    "productTitle": "Dish_Washer_A",
+    "productDescription": "DW_Grade=A",
+    "productPrice": 100
+  },
+  {
+    "ID": 1,
+    "productTitle": "Dish_Washer_B",
+    "productDescription": "DW_Grade=B",
+    "productPrice": 80
+  },
+  {
+    "ID": 2,
+    "productTitle": "Dish_Washer_C",
+    "productDescription": "DW_Grade=C",
+    "productPrice": 60
+  },
+  {
+    "ID": 3,
+    "productTitle": "Dish_Washer_D",
+    "productDescription": "DW_Grade=D",
+    "productPrice": 45
+  },
+  {
+    "ID": 4,
+    "productTitle": "Dish_Washer_E",
+    "productDescription": "DW_Grade=E",
+    "productPrice": 30
   }
+]
