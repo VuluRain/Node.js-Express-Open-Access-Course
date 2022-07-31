@@ -16,6 +16,4 @@ productsRouter.route("/:ID").get((req, res) => {
     })
 });
 
-console.log("Test_Git_Desktop")
-
 module.exports = productsRouter;
