@@ -12,8 +12,10 @@ productsRouter.route("/").get((req, res) => {
 productsRouter.route("/:ID").get((req, res) => {
     const id = req.params.ID;
     res.render("product",{
-        product: products[id],
+        product: products[id],       
     })
 });
+
+console.log("Test_Git_Desktop")
 
 module.exports = productsRouter;
